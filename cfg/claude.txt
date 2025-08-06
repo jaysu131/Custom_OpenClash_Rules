@@ -1,4 +1,0 @@
-DOMAIN-SUFFIX,claude.ai
-DOMAIN,chat.claude.ai
-DOMAIN,api.anthropic.com
-DOMAIN-SUFFIX,anthropic.com
